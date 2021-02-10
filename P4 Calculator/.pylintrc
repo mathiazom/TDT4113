@@ -1,0 +1,6 @@
+[MASTER]
+
+output-format=colorized
+
+[MESSAGES CONTROL]
+#disable=import-error
